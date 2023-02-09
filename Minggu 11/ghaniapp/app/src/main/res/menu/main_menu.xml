@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/mi_input_control"
+        android:icon="@drawable/ic_control_background"
+        android:title="@string/inputcontrolativity" />
+
+    <item
+        android:id="@+id/mi_listview_control"
+        android:icon="@drawable/ic_listview_background"
+        android:title="@string/inputlistviewactivity" />
+
+    <item
+        android:id="@+id/mi_recyclerview_activity"
+        android:icon="@drawable/ic_recyclerview_background"
+        android:title="@string/inputrecycleractivity" />
+
+    <item
+        android:id="@+id/mi_quit"
+        android:icon="@drawable/ic_quit_background"
+        android:title="@string/quit" />
+</menu>

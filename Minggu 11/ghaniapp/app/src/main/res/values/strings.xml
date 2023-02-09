@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ghani app</string>
+    <string name="inputcontrolativity">inputcontrolativity</string>
+    <string name="inputlistviewactivity">inputlistviewactivity</string>
+    <string name="inputrecycleractivity">inputrecycleractivity</string>
+    <string name="quit">quit</string>
+</resources>
